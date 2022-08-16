@@ -5,6 +5,10 @@ This is JHipster version of the legendary Spring Petclinic application.
 Master branch contains the final version of the jhpetclinic application while specific branches exists for the various
 development versions.
 
+## Docs
+- https://medium.com/agency04/creating-spring-petclinic-app-with-jhipster-bd8e4366b789
+
+
 ### Supported databases
 
 At the moment jhpetclinic has been tested with the following databases:
