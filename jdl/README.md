@@ -30,3 +30,11 @@ Resource controller that provides a rest interface for base CRUD operations
 Furthermore, the resource controller will also provide the single GET endpoint with the ability to filter the entity based on its attributes (for more on this powerful feature of JHipster see: Filtering Entities)
 
 In addition, JHipster has also performed the following tasks: configured ehcache for all our entities, created swagger documentation for rest API endpoints. Last but not least, it also generated the full Angular front end app with simple CRUD functionality for all of our entities.
+
+## API
+
+In addition to playing with the newly generated Angular client, you can now also take a look at the generated swagger documentation for the application’s REST endpoints.
+
+To do so, point your browser to the following url: 
+
+http://127.0.0.1:8080/swagger-ui/index.html (just make sure you have previously signed in).
